@@ -21,4 +21,8 @@ package principal;
 
 public class MaquinaTuring {
     
+    public void ola(){
+        System.out.printf("Frederico joinha joinha!");
+    }
+    
 }
