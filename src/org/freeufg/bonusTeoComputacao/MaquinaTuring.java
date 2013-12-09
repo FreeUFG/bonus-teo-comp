@@ -17,7 +17,7 @@
     along with BWEvaluator.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package principal;
+package org.freeufg.bonusTeoComputacao;
 
 public class MaquinaTuring {
     public static void main(String[] args) {
