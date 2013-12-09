@@ -20,5 +20,8 @@
 package principal;
 
 public class MaquinaTuring {
+    public static void main(String[] args) {
+        System.out.println("Weider Alves Barbosa");        
+    }
     
 }
