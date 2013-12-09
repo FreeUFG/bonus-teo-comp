@@ -20,5 +20,7 @@
 package principal;
 
 public class MaquinaTuring {
-    
+    public static void main(String[] args) {
+        System.out.println("Dyeimys Franco Correa\n\tMat: 100 859");
+    }
 }
