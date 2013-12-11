@@ -21,6 +21,7 @@ package principal;
 
 public class BonusTeoComp {
     public static void main(String[] args) {
-        // TODO code application logic here
+        MaquinaTuring m = new MaquinaTuring();
+        m.ola();
     }
 }
