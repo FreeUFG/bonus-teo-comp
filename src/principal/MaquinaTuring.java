@@ -20,5 +20,7 @@
 package principal;
 
 public class MaquinaTuring {
-    
+    public void ola(){
+        System.out.println("Dyeimys Franco Correa");
+    }
 }
