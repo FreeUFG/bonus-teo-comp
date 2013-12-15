@@ -23,6 +23,13 @@ import java.util.ArrayList;
 
 public class MaquinaTuring {
     
+    //************************************************
+    
+    public void ola(){
+        System.out.println("Meu nome é RogerLevy Atrasado :) ");
+    }
+    //************************************************
+    
     private ArrayList<Character> fita;
     private ArrayList<String> delta;    //Pensar na função delta
     private int cabeca;
