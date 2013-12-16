@@ -27,6 +27,9 @@ public class MaquinaTuring {
     private ArrayList<String> delta;    //Pensar na função delta
     private int cabeca;
     
+    public void Ola () {
+        System.out.println("Raphael de Jesus Muniz");
+    }
     //Pensar no construtor
     public MaquinaTuring(){
         
