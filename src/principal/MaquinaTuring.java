@@ -20,5 +20,8 @@
 package principal;
 
 public class MaquinaTuring {
-    
+    public void ola()
+    {
+        System.out.println("Meu nome é Jãum");
+    }
 }
