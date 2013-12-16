@@ -21,8 +21,7 @@ package principal;
 
 public class MaquinaTuring {
     
-    public void ola(){
-        
+    public void ola(){        
         System.out.println("Meu nome é Danillo Reis :D");
     }
     
