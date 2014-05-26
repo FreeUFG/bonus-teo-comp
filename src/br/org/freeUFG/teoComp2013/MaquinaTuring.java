@@ -63,5 +63,8 @@ public class MaquinaTuring {
         Character c = new Character(s);
         this.fita.set(this.cabeca, c);
     }
+    public void ola(){
+        System.out.println("Meu nome é Pedro Henrique Dias Valle");
+    }
     
 }
